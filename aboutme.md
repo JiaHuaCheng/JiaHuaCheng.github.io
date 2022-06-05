@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Seeking An Entry Level Data Engineer Position.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Howdy, I am Jia-Hua Cheng! 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am a data enthusiast and have a strong self-learning ability. 
+My interest area is data enginerring. Without data, nothing could be achieved. Without "cleaned data", buiness analytic or training model could be dangerous and are inefficient. Nowaday, we don't need to worry about where to get data. Actually, we have too much data around us. The structure and source are also very diversed. Integrating data from different source to deliver a high quality, reliable dataset is challenging but it could be a huge benefit to the team, and orginization. This is exactly my passion for. Please check my project tab to view my work (data ingestion, managing pipeline). For me, data engineer stands behind team's back and support them! I enjoy being a role like that. No one win if team loses. 
 
-What else do you need?
+As a data engineer, we have many chances to work with data scientists, analytic engineers. Besides of having knowledge of data engineering, I also have knowledge of machine learning, deep learning and visulization. Please feel free to check my work at Project tab. 
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I will finish my CS master degree on Dec/22 and am seeking a Data Engineer Intern on Fall or Entry Level Data Engineer position after graduation. If you like my porfolio, feel free to reach out to me on Linkedin or drop me an email :) 
