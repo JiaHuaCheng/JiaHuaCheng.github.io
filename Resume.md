@@ -6,12 +6,15 @@ title: Resume
 **Jia-Hua Cheng / 979-721-2711 / jhchenge@gmail.com**
 <p><strong><font color="darkblue">EDUCATION</font></strong></p>
 
-- Master in Computer Science, Texas A&M University, 01/21 - Present
+- Master in Computer Science, Texas A&M University
 	 - GPA 3.89/4.00
- - M.S. in Physics, National Chiao Tung University, Taiwan, 09/13 - 08/15
+	 - 01/2021 to present
+- M.S. in Physics, National Chiao Tung University, Taiwan
 	 - GPA 4.19/4.30
-- B.S. in Physics and Electronic Engineering, National TsingHua University, 09/08 to 06/13
-- Data Engineer Nanodegree, Udacity, 03/2022 to 06/2022</li>
+	 - 09/2013 to 08/2015
+- B.S. in Physics and Electronic Engineering, National TsingHua University, Taiwan
+	 - 09/2008 to 06/2013
+- Data Engineer Nanodegree, Udacity, 03/2022 to 06/2022
 
 <p><strong><font color="darkblue">TECHNICAL SKILLS</font></strong></p>
 <li><strong>Programming Languages:</strong> Python, Java</li>
