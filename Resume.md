@@ -7,13 +7,11 @@ title: Resume
 <p><strong><font color="darkblue">EDUCATION</font></strong></p>
 
 - Master in Computer Science, Texas A&M University
-	 - GPA 3.89/4.00
-	 - 01/2021 to present
+	 - GPA 3.89/4.00, 01/2021 to present
 - M.S. in Physics, National Chiao Tung University, Taiwan
-	 - GPA 4.19/4.30
-	 - 09/2013 to 08/2015
+	 - GPA 4.19/4.30, 09/2013 to 08/2015
 - B.S. in Physics and Electronic Engineering, National TsingHua University, Taiwan
-	 - 09/2008 to 06/2013
+	 - GPA 3.00/4.30, 09/2008 to 06/2013
 - Data Engineer Nanodegree, Udacity, 03/2022 to 06/2022
 
 <p><strong><font color="darkblue">TECHNICAL SKILLS</font></strong></p>
